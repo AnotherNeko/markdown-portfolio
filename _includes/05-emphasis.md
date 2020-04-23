@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can _program_ in
+* __*C++*__
+* __*Javascript*__
+* __*html/css*__
+* __*Scratch*__
+* __*logic gates*__
